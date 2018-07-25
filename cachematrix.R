@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ##Returns a matrix with its index cache as a list of functions
 
